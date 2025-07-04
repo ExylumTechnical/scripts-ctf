@@ -1,3 +1,4 @@
+# Used to decrypt a piece of text by adding and subtracting from values
 encryptedText="Eyooirtnrpincd spiiiect e mv"
 encryptedTextLen=len(encryptedText)
 print()
